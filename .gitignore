@@ -7,3 +7,8 @@ note.md
 /**/*.py
 /**/__pycache__
 /**/*.ans
+
+
+
+.idea/
+cmake-build-debug/
